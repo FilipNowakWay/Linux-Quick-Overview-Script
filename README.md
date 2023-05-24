@@ -2,14 +2,22 @@
 Linux Quick Overview Script 🐧
 This repository contains a Linux administration script that provides a quick overview of various aspects of a Linux system. 📚
 
-Features
+Features:
+
 ✅ Displays system information.
+
 ✅ Shows disk usage details.
+
 ✅ Provides memory usage statistics.
+
 ✅ Presents network information.
+
 ✅ Lists user information.
+
 ✅ Performs system updates.
+
 ✅ Configures the firewall.
+
 ✅ Analyzes system logs.
 
 Usage
