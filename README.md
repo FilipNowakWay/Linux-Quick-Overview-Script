@@ -23,6 +23,7 @@ This repository contains a Linux administration script that provides a quick ove
 ✅ Analyzes system logs.
 
 ## Usage:
+
 1. Clone the repository:
 ```
 git clone https://github.com/your-username/linux-quick-overview-script.git
@@ -45,4 +46,4 @@ This script is designed for cross-distribution compatibility and works on variou
 ## Contributions:
 Contributions are welcome! If you have suggestions for improvements or encounter any issues, please open an issue or submit a pull request.
 
-#Please note that this script has been updated to support a wider range of Linux distributions and includes improved error handling and messages.
+# Please note that this script has been updated to support a wider range of Linux distributions and includes improved error handling and messages.
