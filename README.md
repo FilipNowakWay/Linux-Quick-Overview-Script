@@ -7,12 +7,19 @@ This repository contains a Linux administration script that provides a quick ove
 ## Features:
 
 ✅ Displays system information.
+
 ✅ Shows disk usage details.
+
 ✅ Provides memory usage statistics.
+
 ✅ Presents network information.
+
 ✅ Lists user information.
+
 ✅ Performs system updates.
+
 ✅ Configures the firewall.
+
 ✅ Analyzes system logs.
 
 ## Usage:
